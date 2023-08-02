@@ -9,7 +9,7 @@ function Header() {
     <div className='header' >
         <div className="header_logo">
         <StorefrontIcon className='header_logoImage' fontSize='large' />
-        <h2 className="header_logoTitle">eShop</h2>
+        <h2 className="header_logoTitle">eSHOP</h2>
       </div>
 
       <div className="header_search">

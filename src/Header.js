@@ -23,10 +23,10 @@ function Header() {
       </div>
 
       <div className="header_nav">
-      <Link to="/login" style={{ textDecoration:"none" }}>
-          <div className="nav__item">
-            <span className="nav__itemLineOne">Hello Guest</span>
-            <span className="nav__itemLineTwo">Sign In</span>
+      <Link to="/login" style={{ textDecoration: "none" }}>
+          <div className="nav_item">
+            <span className="nav_itemLineOne">Hello Guest</span>
+            <span className="nav_itemLineTwo">Sign In</span>
           </div>
         </Link>
         <div className="nav_item">

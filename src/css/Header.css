@@ -49,6 +49,7 @@
 .header_nav {
     display: flex;
     justify-content: space-evenly;
+    color: white;
 }
 
 .nav_item {
